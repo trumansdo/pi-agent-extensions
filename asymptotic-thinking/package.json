@@ -1,0 +1,9 @@
+{
+  "name": "asymptotic-thinking",
+  "version": "1.0.0",
+  "description": "渐近式思考框架",
+  "private": true,
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  }
+}

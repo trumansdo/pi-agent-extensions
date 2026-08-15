@@ -1,0 +1,9 @@
+{
+  "name": "deepseek_add_userid",
+  "version": "1.0.0",
+  "description": "把session id当成user_id隔离不同会话的kv cache",
+  "private": true,
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  }
+}

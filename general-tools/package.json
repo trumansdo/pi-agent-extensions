@@ -1,0 +1,9 @@
+{
+  "name": "general-tools",
+  "version": "1.0.0",
+  "description": "通用工具扩展 - 提供技能调度(skill)、读取预警等通用工具",
+  "private": true,
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  }
+}

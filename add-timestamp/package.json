@@ -1,0 +1,9 @@
+{
+  "name": "add-timestamp",
+  "version": "1.0.0",
+  "description": "为每次 tool 调用添加时间戳",
+  "private": true,
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  }
+}

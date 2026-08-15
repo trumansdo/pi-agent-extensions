@@ -1,0 +1,9 @@
+{
+  "name": "all-events-logger",
+  "version": "1.0.0",
+  "description": "记录所有 pi 事件",
+  "private": true,
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  }
+}
